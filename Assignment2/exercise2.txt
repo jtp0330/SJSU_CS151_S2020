@@ -1,0 +1,4 @@
+The differences between int and the Integer class is that the primitive data type, int is
+faster and easier to allocate, but lack the avaliablitly of special functions. The Integer class on the other hand, can take up more resources,
+but has supporting methods, helping the class with different tasks such as String conversion or maximum value. 
+ 
