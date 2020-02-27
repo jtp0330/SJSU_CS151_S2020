@@ -29,7 +29,7 @@ public class Contractor extends Employee {
 		
 	}
 	
-	public float getOvertiempay() {
+	public float getOvertimepay() {
 		
 		return overtimepay;
 		
